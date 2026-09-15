@@ -1,5 +1,7 @@
 # Interactive Coffee Sales Dashboard
 
+![Coffee Sales Dashboard](Coffee_Sales_Dashboard.png)
+
 A practice project completed by following a guided Excel tutorial. The project uses coffee sales data from three countries and combines information from multiple reports to create an interactive sales dashboard.
 
 ## What I Did
