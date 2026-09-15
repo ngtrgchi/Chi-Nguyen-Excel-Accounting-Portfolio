@@ -4,17 +4,20 @@ Hi, I'm Chi Nguyen, an accounting student at the University of Washington Bothel
 
 ## Projects
 
-### Excel Sales Dashboard
-Coming soon.
+### Interactive Coffee Sales Dashboard
+
+An interactive Excel dashboard analyzing coffee sales data across three countries using XLOOKUP, INDEX/MATCH, PivotTables, PivotCharts, slicers, and a timeline.
+
+[View Project](./01-Coffee-Sales-Dashboard)
 
 ## Skills
 
-- Microsoft Excel
-- PivotTables and PivotChart
-- Interactive Excel Dashboards
-- Data Cleaning with functions and formulas
-- Data Analysis
-- Regression Analysis
-- Forecasting
-- VLOOKUP / XLOOKUP
-- Basic Financial Analysis
+* Microsoft Excel
+* PivotTables and PivotCharts
+* Interactive Excel Dashboards
+* Data Cleaning with Functions and Formulas
+* Data Analysis
+* Regression Analysis
+* Forecasting
+* VLOOKUP / XLOOKUP
+* Basic Financial Analysis
